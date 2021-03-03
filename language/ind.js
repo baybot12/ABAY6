@@ -265,7 +265,7 @@ ${a}❏ABOUT BOT${a}
  
 ${a}❏THANGKS TO${a}
  ${a}│${a}
- ${a}│ • AFFIS JUNIANTO <dev>${a}
+ ${a}│ • ABAY<dev>${a}
  ${a}│ • FADHIL GRAPHY <partner>${a}
  ${a}│ • MHANKBARBARS <sc ori>${a}
  ${a}│ • MYBOT TEAM <team>${a}
