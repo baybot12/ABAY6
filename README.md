@@ -11,7 +11,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv5
+> git clone https://github.com/baybot12/ABAY6
 ```
 
 ## Install the dependencies:
@@ -19,7 +19,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv5
+> cd ABAY6
 > bash install.sh
 ```
 
@@ -66,8 +66,4 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
-### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +628233429775`]
+* [`WhatsApp`](wa.me/6285694347823)
